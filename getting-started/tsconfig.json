@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        // @ts-check 와 같은 기능을 수행
+        "checkJs": true,
+        // 모든 타입에 대해서 최소한 any, 기본적인 타입이라도 넣어야 하는지
+        "noImplicitAny": true,
+        // "moduleDetection": "force"
+    }
+}
