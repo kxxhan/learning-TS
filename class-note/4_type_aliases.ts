@@ -18,5 +18,7 @@ let str: Mystring = 'hello';
 
 type Todo = { id: string; title: string; done: boolean };
 function getTodo(todo: Todo) {
-    
+
 }
+
+export {}
